@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/Users/sanskarjain/IdeaProjects/APISetu(failed)">
+    <classes>
+      <class name="AllStateIDTest">
+        <methods>
+          <include name="checkResponse"/>
+          <include name="validateAllStateID"/>
+        </methods>
+      </class> <!-- AllStateIDTest -->
+    </classes>
+  </test> <!-- /Users/sanskarjain/IdeaProjects/APISetu(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
