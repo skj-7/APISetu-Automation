@@ -3,9 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/sanskarjain/IdeaProjects/APISetu">
         <classes>
-            <class name="StateIDTest"/>
-            <class name="DistrictIDTest"/>
-            <class name="PriceOfVaccineTest"/>
+            <class name="TestApi"/>
         </classes>
     </test>
 </suite>

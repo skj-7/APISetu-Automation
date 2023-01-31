@@ -7,7 +7,8 @@ import lombok.Setter;
 @Data
 @Getter
 @Setter
-public class State {
-    private String state_name;
-    private Integer state_id;
+public class Slots {
+
+    private String time;
+    private Integer seats;
 }
