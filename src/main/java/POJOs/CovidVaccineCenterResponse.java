@@ -10,6 +10,5 @@ import java.util.ArrayList;
 @Getter
 @Setter
 public class CovidVaccineCenterResponse {
-
     private ArrayList<Session> sessions;
 }
